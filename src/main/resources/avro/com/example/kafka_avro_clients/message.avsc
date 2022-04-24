@@ -1,0 +1,15 @@
+{
+  "namespace": "com.example.kafka_avro_clients",
+  "name": "Message",
+  "type": "record",
+  "fields": [
+    {
+      "name": "stringKey",
+      "type": "string"
+    },
+    {
+      "name": "intKey",
+      "type": "int"
+    }
+  ]
+}
